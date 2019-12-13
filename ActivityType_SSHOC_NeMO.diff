@@ -1,0 +1,273 @@
+43d42
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=120>;
+92,93c91
+<     nemo-instances:ActivityType-Collocation_Analysis, nemo-instances:ActivityType-Commenting, 
+<     nemo-instances:ActivityType-Comparing, nemo-instances:ActivityType-Content_Analysis,
+---
+>     nemo-instances:ActivityType-Commenting, nemo-instances:ActivityType-Comparing, nemo-instances:ActivityType-Content_Analysis,
+102,103c100
+<     nemo-instances:ActivityType-Parsing, nemo-instances:ActivityType-Photogrammetry, 
+<     nemo-instances:ActivityType-Principal_Component_Analysis, nemo-instances:ActivityType-Relational_Analysis,
+---
+>     nemo-instances:ActivityType-Parsing, nemo-instances:ActivityType-Photogrammetry, nemo-instances:ActivityType-Relational_Analysis,
+108,110c105,106
+<     nemo-instances:ActivityType-Stylometry, nemo-instances:ActivityType-Theorizing, 
+<     nemo-instances:ActivityType-Usability_analysis, nemo-instances:ActivityType-Validating;
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=25>;
+---
+>     nemo-instances:ActivityType-Stylometry, nemo-instances:ActivityType-Theorizing, nemo-instances:ActivityType-Usability_analysis,
+>     nemo-instances:ActivityType-Validating;
+138c134
+<     nemo-instances:ActivityType-Contextualizing, nemo-instances:ActivityType-Documenting, nemo-instances:ActivityType-Downloading,
+---
+>     nemo-instances:ActivityType-Contextualizing, nemo-instances:ActivityType-Documenting,
+143d138
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=40>;
+188d182
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=22>;
+192c186
+< nemo-instances:ActivityType-Acquiring a <http://www.w3.org/2004/02/skos/core#Concept>;
+---
+> nemo-instances:ActivityType-Aquiring a <http://www.w3.org/2004/02/skos/core#Concept>;
+195,197c189,190
+<     nemo-instances:ActivityType-Extracting, nemo-instances:ActivityType-Gathering, 
+<     nemo-instances:ActivityType-Harvesting, nemo-instances:ActivityType-Learning;
+<   <http://www.w3.org/2004/02/skos/core#prefLabel> "Acquiring"@en;
+---
+>     nemo-instances:ActivityType-Gathering, nemo-instances:ActivityType-Learning;
+>   <http://www.w3.org/2004/02/skos/core#prefLabel> "Aquiring"@en;
+204d196
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=38>;
+212d203
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=50>;
+246,247c237
+<     nemo-instances:ActivityType-Rendering, nemo-instances:ActivityType-Subtitling, nemo-instances:ActivityType-Synthesizing, 
+<     nemo-instances:ActivityType-Writing;
+---
+>     nemo-instances:ActivityType-Rendering, nemo-instances:ActivityType-Synthesizing, nemo-instances:ActivityType-Writing;
+269d258
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=94>;
+283d271
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=43>;
+291d278
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=95>;
+302d288
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=7>;
+340d325
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=23>;
+355d339
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=96>;
+363d346
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=45>;
+375c358
+<   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Acquiring;
+---
+>   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Aquiring;
+385d367
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=97>;
+388,393d369
+<   
+< nemo-instances:ActivityType-Collocation_Analysis a <http://www.w3.org/2004/02/skos/core#Concept>;
+<   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Analyzing;
+<   <http://www.w3.org/2004/02/skos/core#inScheme> <http://dcu.gr/ontologies/scholarlyontology/scheme/>;
+<   <http://www.w3.org/2004/02/skos/core#notation> "Collocation Analysis"@en;
+<   <http://www.w3.org/2004/02/skos/core#prefLabel> "4.2.27 Collocation Analysis"@en .
+399d374
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=44>;
+407d381
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=51>;
+451d424
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=99>;
+466d438
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=26>;
+474d445
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=34>;
+482d452
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=8>;
+504d473
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=46>;
+520,523c489,490
+<     nemo-instances:ActivityType-Emulating, nemo-instances:ActivityType-Migrating, 
+<     nemo-instances:ActivityType-Storing, nemo-instances:ActivityType-Versioning;
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=41>, 
+<     <http://tadirah.dariah.eu/vocab/?tema=93>, <http://tadirah.dariah.eu/vocab/?tema=124>;
+---
+>     nemo-instances:ActivityType-Emulating, nemo-instances:ActivityType-Migrating, nemo-instances:ActivityType-Storing,
+>     nemo-instances:ActivityType-Versioning;
+538,541c505
+<   <http://www.w3.org/2004/02/skos/core#narrower> nemo-instances:ActivityType-Image_Recognition,
+<     nemo-instances:ActivityType-Named_Entity_Recognition, nemo-instances:ActivityType-Optical_Character_Recognition, 
+<     nemo-instances:ActivityType-Speech_Recognition;
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=9>, <http://tadirah.dariah.eu/vocab/?tema=114>;
+---
+>   <http://www.w3.org/2004/02/skos/core#narrower> nemo-instances:ActivityType-Named_Entity_Recognition;
+549d512
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=100>;
+564d526
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=16>;
+581d542
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=17>;
+613d573
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=42>;
+624,629d583
+< nemo-instances:ActivityType-Downloading a <http://www.w3.org/2004/02/skos/core#Concept>;
+<   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Organizing;
+<   <http://www.w3.org/2004/02/skos/core#inScheme> <http://dcu.gr/ontologies/scholarlyontology/scheme/>;
+<   <http://www.w3.org/2004/02/skos/core#notation> "Downloading"@en;
+<   <http://www.w3.org/2004/02/skos/core#prefLabel> "4.3.22 Downloading"@en .
+< 
+634d587
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=24>;
+642d594
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=103>;
+650d601
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=104>;
+665d615
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=21>;
+682,701d631
+<   
+< nemo-instances:ActivityType-Extracting a <http://www.w3.org/2004/02/skos/core#Concept>;
+<   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Acquiring;
+<   <http://www.w3.org/2004/02/skos/core#inScheme> <http://dcu.gr/ontologies/scholarlyontology/scheme/>;
+<   <http://www.w3.org/2004/02/skos/core#narrower> nemo-instances:ActivityType-Extracting_Data,
+<     nemo-instances:ActivityType-Extracting_Metadata;
+<   <http://www.w3.org/2004/02/skos/core#notation> "Extracting"@en;
+<   <http://www.w3.org/2004/02/skos/core#prefLabel> "3.4 Extracting"@en .
+<   
+< nemo-instances:ActivityType-Extracting_Data a <http://www.w3.org/2004/02/skos/core#Concept>;
+<   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Extracting;
+<    <http://www.w3.org/2004/02/skos/core#inScheme> <http://dcu.gr/ontologies/scholarlyontology/scheme/>;
+<   <http://www.w3.org/2004/02/skos/core#notation> "Extracting Data"@en;
+<   <http://www.w3.org/2004/02/skos/core#prefLabel> "3.4.2 Extracting Data"@en .
+<   
+< nemo-instances:ActivityType-Extracting_Metadata a <http://www.w3.org/2004/02/skos/core#Concept>;
+<   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Extracting;
+<    <http://www.w3.org/2004/02/skos/core#inScheme> <http://dcu.gr/ontologies/scholarlyontology/scheme/>;
+<   <http://www.w3.org/2004/02/skos/core#notation> "Extracting Metadata"@en;
+<   <http://www.w3.org/2004/02/skos/core#prefLabel> "3.4.1 Extracting Metadata"@en .
+721d650
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=105>;
+726c655
+<   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Acquiring;
+---
+>   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Aquiring;
+729d657
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=11>;
+737d664
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=106>;
+740,744d666
+<   
+< nemo-instances:ActivityType-Harvesting a <http://www.w3.org/2004/02/skos/core#Concept>;
+<   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Acquiring;
+<   <http://www.w3.org/2004/02/skos/core#notation> "Harvesting"@en;
+<   <http://www.w3.org/2004/02/skos/core#prefLabel> "3.5 Harvesting"@en .
+771d692
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=39>;
+788d708
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=32>;
+791,796d710
+<   
+< nemo-instances:ActivityType-Image_Recognition a <http://www.w3.org/2004/02/skos/core#Concept>;
+<   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Data_Recognition;
+<   <http://www.w3.org/2004/02/skos/core#inScheme> <http://dcu.gr/ontologies/scholarlyontology/scheme/>;
+<   <http://www.w3.org/2004/02/skos/core#notation> "Image Recognition"@en;
+<   <http://www.w3.org/2004/02/skos/core#prefLabel> "4.2.12.3 Image Recognition"@en .
+802d715
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=12>;
+824d736
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=33>;
+843c755
+<   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Acquiring;
+---
+>   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Aquiring;
+874d785
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=109>;
+882d792
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=110>;
+890d799
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=101>;
+898d806
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=111>;
+913d820
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=35>, <http://tadirah.dariah.eu/vocab/?tema=125>;
+944d850
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=112>;
+962,967d867
+<   
+< nemo-instances:ActivityType-Optical_Character_Recognition a <http://www.w3.org/2004/02/skos/core#Concept>;
+<   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Data_Recognition;
+<   <http://www.w3.org/2004/02/skos/core#inScheme> <http://dcu.gr/ontologies/scholarlyontology/scheme/>;
+<   <http://www.w3.org/2004/02/skos/core#notation> "Optical Character Recognition"@en;
+<   <http://www.w3.org/2004/02/skos/core#prefLabel> "4.2.12.4 Optical Character Recognition"@en .
+987d886
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=116>;
+1023d921
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=115>;
+1033,1039d930
+<   
+< nemo-instances:ActivityType-Principal_Component_Analysis a <http://www.w3.org/2004/02/skos/core#Concept>;
+<   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Analyzing;
+<   <http://www.w3.org/2004/02/skos/core#inScheme> <http://dcu.gr/ontologies/scholarlyontology/scheme/>;
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=118>;
+<   <http://www.w3.org/2004/02/skos/core#notation> "Principal Component Analysis"@en;
+<   <http://www.w3.org/2004/02/skos/core#prefLabel> "4.2.23 Principal Component Analysis"@en .
+1052d942
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=53>;
+1067d956
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=47>;
+1082d970
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=13>;
+1097d984
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=28>;
+1119d1005
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=48>;
+1155d1040
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=122>;
+1161c1046
+<   <http://www.w3.org/2004/02/skos/core#definition> "Sequence Alignment refers to the Activity Type of arranging sequences to identify regions of similarity that may be a consequence of functional, structural, or evolutionary relationships between them.";
+---
+>   <http://www.w3.org/2004/02/skos/core#definition> "Sequence Alignment refers o the Activity Type of arranging sequences to identify regions of similarity that may be a consequence of functional, structural, or evolutionary relationships between them.";
+1163d1047
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=123>;
+1171d1054
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=27>;
+1179d1061
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=29>;
+1182,1187d1063
+<   
+< nemo-instances:ActivityType-Speech_Recognition a <http://www.w3.org/2004/02/skos/core#Concept>;
+<   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Data_Recognition;
+<   <http://www.w3.org/2004/02/skos/core#inScheme> <http://dcu.gr/ontologies/scholarlyontology/scheme/>;
+<   <http://www.w3.org/2004/02/skos/core#notation> "Speech recognition"@en;
+<   <http://www.w3.org/2004/02/skos/core#prefLabel> "4.2.12.2 Speech recognition"@en .
+1214d1089
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=37>;
+1236d1110
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=30>;
+1244d1117
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=31>;
+1254,1259d1126
+<   
+< nemo-instances:ActivityType-Subtitling a <http://www.w3.org/2004/02/skos/core#Concept>;
+<   <http://www.w3.org/2004/02/skos/core#broader> nemo-instances:ActivityType-Producing;
+<   <http://www.w3.org/2004/02/skos/core#inScheme> <http://dcu.gr/ontologies/scholarlyontology/scheme/>;
+<   <http://www.w3.org/2004/02/skos/core#notation> "Subtitling"@en;
+<   <http://www.w3.org/2004/02/skos/core#prefLabel> "4.4.11 Subtitling"@en .
+1293d1159
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=54>;
+1308d1173
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=36>;
+1330d1194
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=14>;
+1338d1201
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=18>;
+1360d1222
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=126>;
+1368d1229
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=19>;
+1376d1236
+<   <http://www.w3.org/2004/02/skos/core#broadMatch> <http://tadirah.dariah.eu/vocab/?tema=20>;
+1382c1242
+<   <http://www.w3.org/2004/02/skos/core#hasTopConcept> nemo-instances:ActivityType-Acquiring,
+---
+>   <http://www.w3.org/2004/02/skos/core#hasTopConcept> nemo-instances:ActivityType-Aquiring,
